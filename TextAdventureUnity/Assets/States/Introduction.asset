@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51677c57370be1440af51fa948366c96, type: 3}
+  m_Name: Introduction
+  m_EditorClassIdentifier: 
+  storyText: "Welcome to Dessert Runner, the post-apocalyptic choose your own text
+    adventure game! \n\nFollow the story of our main protagonist by picking different
+    choices available as the story progresses. Use the numbers on the keyboard to
+    navigate the game. \n\nTo start, simply press \"1\" on the keyboard or close the
+    browser tab to exit \n"
+  nextStates:
+  - {fileID: 11400000, guid: db2252d82f27b224a983d2fa459cec9c, type: 2}
